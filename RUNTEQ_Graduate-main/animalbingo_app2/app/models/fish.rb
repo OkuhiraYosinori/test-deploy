@@ -1,2 +1,0 @@
-class Fish < Picture
-end
